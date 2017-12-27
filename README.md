@@ -1,2 +1,2 @@
 # Keil-colorScheme-Monokai
-monokai theme of keil ide
+Monokai theme of keil ide

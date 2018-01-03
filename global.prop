@@ -56,9 +56,9 @@ edge.column=200
 
 # Specification for text selection and caret line
 selection.fore=#FFFFFF
-selection.back=#C78686
+selection.back=#89324A
 caret.fore=#FFFFFF
-caret.back=#EE5577
+caret.back=#89324A
 
 # Color for vertical edge
 edge.colour=#C0DCC0
@@ -108,6 +108,6 @@ style.asm.8=font:Courier New,size:10,fore:#46AA03,back:#FFFFFF
 
 # Editor Text files
 font.monospace.txt=Microsoft YaHei Mono
-style.txt.32=font:Microsoft YaHei Mono,size:10,fore:#000000,back:#FFFFFF
+style.txt.32=font:@Microsoft YaHei Mono,size:11,fore:#F8F8F2,back:#333333
 
 

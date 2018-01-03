@@ -190,9 +190,9 @@ indent.closing=0
 # Folding
 # enable folding, and show lines below when collapsed.
 fold=1
-fold.compact=1
-fold.flags=16
-fold.symbols=1
+fold.compact=0
+fold.flags=1
+fold.symbols=0
 #fold.on.open=1
 fold.comment=1
 fold.preprocessor=1
